@@ -1,0 +1,26 @@
+{
+  "name": "deep-learning-hw",
+  "version": "1.0.0",
+  "description": "This is the Deep Learning assignment for the 2019/20 Master Data Science course at Tilburg University.",
+  "main": "/src/classModel.py",
+  "scripts": {
+    "test": "echo \"No Tests.\"",
+    "start": "python src/classModel.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryonie/Deep-Learning-HW.git"
+  },
+  "keywords": [
+    "Python",
+    "TensorFlow",
+    "Deep Learning",
+    "EEG"
+  ],
+  "author": "Byronie Richards, Mikhail Rene Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryonie/Deep-Learning-HW/issues"
+  },
+  "homepage": "https://github.com/bryonie/Deep-Learning-HW#readme"
+}
